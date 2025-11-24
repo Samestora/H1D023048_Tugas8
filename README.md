@@ -10,6 +10,7 @@ Halaman login menjadi default (halaman pertama) pada main.dart divalidasi berupa
 ![Login](1.png)
 ## Halaman Registrasi
 Halaman registrasi validasi sama dengan yang di halaman login dengan alasan yang sama pula, tidak di route ke halaman produk
+
 ![2](2.png)
 ## Halaman List
 Halaman list terdapat drawer yang logout nya belum berfungsi karena belum memiliki shared_preferences sehingga dummy terlebih dahulu, sisanya berupa list dari produk dengan data dummy (hardcoded)
